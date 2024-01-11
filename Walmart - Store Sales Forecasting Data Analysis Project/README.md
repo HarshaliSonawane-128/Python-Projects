@@ -1,7 +1,6 @@
 
 # Walmart - Store Sales Forecasting Data Analysis Project 
-
-pics 
+![walmart](https://github.com/HarshaliSonawane-128/Python-Projects/blob/main/Walmart%20-%20Store%20Sales%20Forecasting%20Data%20Analysis%20Project/walmart.jpg) 
 ## Project Overview 
  - This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of  different products, customer behaviour. 
  - The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/overview) 
